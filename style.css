@@ -1,0 +1,25 @@
+#inputText{
+    background-color: pink;
+    border: none;
+    height: 200px;
+    width: 400px;
+    font-size: large;
+    
+}  
+
+#result{
+    /* height: 150px;*/
+    width: 380px; 
+    background-color: hotpink;
+    font-weight: bold;
+    
+}
+
+button{
+    margin: 40px 100px;
+    font-weight: bold;
+    width: 120px;
+    height: 40px;
+    background-color: grey;
+    color: whitesmoke;
+}
